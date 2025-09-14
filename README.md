@@ -1,4 +1,4 @@
 # GitHubCloneProject
-This is the description of my repPractice creating branches for feature development, merging branches, and resolving merge conflicts to simulate a common collaborative workflow on Git and GitHub.
+This is the description of my practice in creating branches for feature development, merging branches, and resolving merge conflicts to simulate a common collaborative workflow on Git and GitHub.
 
 Modification in main branch.
